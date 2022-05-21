@@ -29,6 +29,15 @@ nav ul li a {
   line-height: 1em;
   text-shadow: 3px 3px 3px rgb(175,175,175);
 }
+.title-video {
+  color: rgba(52,52,52,0.91);
+  font-family: Lemonada,sans-serif;
+  font-size: 12vw;
+  margin: 0;
+  padding: 0;
+  line-height: 1em;
+  text-shadow: 3px 3px 3px rgb(175,175,175);
+}
 .album {
   text-decoration: none;
   position: relative;
