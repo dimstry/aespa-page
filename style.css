@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  scroll-behavior: smoth;
 }
 
 body {
@@ -12,7 +13,7 @@ nav ul li a {
   font-weight: bold;
 }
 .logo {
- margin-top:3rem;
+  padding-top: 3rem;
 }
 .card {
   margin: 1em 0 1em 0;
