@@ -1,5 +1,5 @@
 # aespa-page
-* Tidak pakai Api males :(,jadinya update manual 😩
+* Tidak pakai Api males :( , jadinya update manual 😩
 ## New
 * New Foto Grup 💙🌟❄️🦋
 * New Album
