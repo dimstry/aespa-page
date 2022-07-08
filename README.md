@@ -1,4 +1,9 @@
 # aespa-page
-* Terinspirasi dari web Twice bang sandhika galih lalu mencoba membuat nya dengan bantuan framework boostrap 5.2
-## View
+* Tidak pakai Api males :(,jadinya update manual 😩
+## New
+* New Foto Grup 💙🌟❄️🦋
+* New Album
+* New Video
+* Yaudah sih gitu doang
+## 🌐
 https://dimstry.github.io/aespa-page/
